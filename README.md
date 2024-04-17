@@ -1,7 +1,7 @@
 <h1 align="center"> Good morning, I'm Bibiana! 🌇 </h1>
 
 <p>⛅ Professional hat wearer, specializing in Quality Assurance with both manual and automated testing. </p>
-<p>🌅 Previous Technical Project Manager for SaaS applications.</p>
+<p>🌅 Previous Technical Project Manager for web and desktop applications.</p>
 <p>🌄 Previous Statistician with a focus on extreme value theory and visualization. </p>
 <p>🌤️ Interests include what quality <it>means</it> to an organization and how we can best achieve it through trust, communication, testing, and learning to facilitate emotional and product growth.</p>
 
