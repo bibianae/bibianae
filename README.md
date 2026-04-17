@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Cuprum&pause=1000&color=F7F677&center=true&width=435&lines=Good+morning%2C+I'm+Bibiana (also known as B)!" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Cuprum&pause=1000&color=F7F677&center=true&width=435&lines=Good+morning%2C+I'm+Bibiana+(also+known+as+B)!" alt="Typing SVG" />
 <p> I'm a professional hat wearer, specializing in Quality Assurance with a focus on manual and automated testing for the past >4 years. </p>
 <p> Previously, I was a Technical Project Manager for web and desktop applications who successfully led a project from an idea to market. </p>
 <p> I love finding bugs, discovering why they work, and helping to fix them, as well as encouraging and educating developers on best quality practices! Quality means different things to different organizations, and educating + enabling people to better understand it is the key to successful, working code. </p>
