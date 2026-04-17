@@ -1,9 +1,9 @@
-<h1 align="center"> Good morning, I'm Bibiana! 🌇 </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Cuprum&pause=1000&color=F7F677&center=true&width=435&lines=Good+morning%2C+I'm+Bibiana (also known as B)!" alt="Typing SVG" />
 
-<p>⛅ Professional hat wearer, specializing in Quality Assurance with both manual and automated testing, >4 years. </p>
-<p>🌅 Previous Technical Project Manager for web and desktop applications, successfully leading a project from 0 to market. </p>
-<p>🌄 Previous Statistician with a focus on extreme value theory and visualization of ocean wave data. </p>
-<p>🌤️ Interests include what quality <it>means</it> to an organization and how we can best achieve it through trust, communication, testing, and learning to facilitate emotional and product growth.</p>
+<p> I'm a professional hat wearer, specializing in Quality Assurance with a focus on manual and automated testing for the past >4 years. </p>
+<p> Previously, I was a Technical Project Manager for web and desktop applications who successfully led a project from an idea to market. </p>
+<p> I love finding bugs, discovering why they work, and helping to fix them, as well as encouraging and educating developers on best quality practices! Quality means different things to different organizations, and educating + enabling people to better understand it is the key to successful, working code. </p>
+<p> In a past life, I was a statistician who worked on clean energy data.</p>
 
 <p> Want to talk more?
   <a href="https://www.linkedin.com/in/bibiana-seng-125879128/" target="_blank">
